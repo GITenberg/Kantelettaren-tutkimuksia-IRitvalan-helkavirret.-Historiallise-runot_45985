@@ -1,0 +1,40 @@
+_repo: Kantelettaren-tutkimuksia-IRitvalan-helkavirret.-Historiallise-runot_45985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krohn, Julius
+    aliases:
+    - Suonio
+    - Krohn, J. (Julius)
+    - Krohn, Gyula
+    - Krohn, Julius Leopold Fredrik
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+  editor:
+    agent_name: Krohn, Kaarle
+    alias: Krohn, Kaarle Leopold
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '43555'
+    url: http://www.gutenberg.org/2009/agents/43555
+description: ''
+gutenberg_issued: '2014-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45985'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lönnrot, Elias, 1802-1884. Kanteletar'
+- !lcsh 'Ballads, Finnish -- History and criticism'
+- !lcc 'PH'
+title: "Kantelettaren tutkimuksia 1\r\nRitvalan helkavirret. Historiallise runot"
+url: http://www.gutenberg.org/ebooks/45985
